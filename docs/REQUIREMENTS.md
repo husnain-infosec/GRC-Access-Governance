@@ -13,6 +13,8 @@
 
 The Access Governance System (V1) is a web-based application demonstrating core access governance, role-based access control, and audit capabilities within a semester-project scope.
 
+The system is modeled on the core capabilities of **SAP GRC Access Control**, specifically its **Access Request Management (ARM)** and **Business Role Management (BRM)** modules: ARM's request → review → provision → revoke lifecycle maps to this project's access request workflow (Section 2), and BRM's role-based governance maps to this project's RBAC design (Admin/Manager/Employee, department scope). This is a conceptual reference point for a semester-scope build, not a claim of feature parity with the commercial SAP product.
+
 The system provides controlled access to application resources through a structured request and approval workflow.
 
 Primary goals:

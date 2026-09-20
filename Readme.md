@@ -4,6 +4,8 @@
 
 The V1 project focuses on access governance and security management at the application level, scoped for a semester-length academic project (see `PREREQUISITES.md` for the full trim rationale).
 
+This project is modeled on the core capabilities of **SAP GRC Access Control** — specifically its **Access Request Management (ARM)** module (request → review → grant → revoke lifecycle) and **Business Role Management (BRM)** module (role-based governance) — as a conceptual reference for a semester-scope academic build, not a claim of feature parity with the commercial product.
+
 **Included:**
 
 * User authentication (email + password, Argon2id hashing)
